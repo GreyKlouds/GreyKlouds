@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreyKlouds
 - 👀 I’m interested in music, computer sceince, and coding
-- 🌱 I’m currently learning how to code in C++ & C#
+- 🌱 I’m currently learning how to code in HTML/CSS alongside C++ & C#
 - 💞️ I’m looking to collaborate on any open source projects or teams with similar coding knowledge as myself.
 - 📫 How to reach me email me at GreyKlouds@Proton.me
 
